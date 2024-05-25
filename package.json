@@ -1,0 +1,20 @@
+{
+  "name": "blog",
+  "version": "1.0.0",
+  "description": "HTML And CSS setup with Node JS unsing EJS Engine",
+  "main": "src/app.js",
+  "scripts": {
+    "start": "nodemon src/app.js",
+    "build": "echo \"Add your build command here\""
+  },
+  "author": "Vikash Rai",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.4.0",
+    "ejs": "^3.1.9",
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.22"
+  }
+}
