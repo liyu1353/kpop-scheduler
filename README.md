@@ -1,7 +1,8 @@
-HTML And CSS setup with Node JS unsing EJS Engine
+# Kpop Schedule
+My first attempt at a web project, featuring
+- Webscraping Weverse and other sites for new announcements
+- Compiling the most important information from the announcements into a database
+- Presenting the data in a calendar-like format
+- Filter by region, so international fans won't have a ton of Korea-only stuff
 
-1. Clone Project
-2. Run "npm install"
-3. Run "nodemon"
-
-Demo URL : https://node-js-setup-with-html-css-js-and-ejs.vercel.app/
+More to come, perhaps?
